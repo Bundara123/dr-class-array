@@ -1,0 +1,22 @@
+{
+  "name": "dr-class-array",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://github.com/Bundara123/dr-class-array#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bundara123/dr-class-array.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array"
+  ],
+  "author": {
+    "name": "REUK BUNDARA",
+    "email": "bundarareuk@gmail.com"
+  },
+  "license": "MIT"
+}
